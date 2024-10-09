@@ -71,7 +71,7 @@ Escribe una función que reciba el array de estudiantes:
 La función debe devolver una lista de los nombres de los estudiantes cuya ciudad sea igual a una ciudad señalada.
 Solicita al usuario la ciudad a buscar.
 */
-/*
+
 interface Estudiante {
     nombre: string,
     matricula: string, 
@@ -114,4 +114,3 @@ nombre.forEach((nombres) => {
     itm.innerText = nombres;
     listaEstudiante!!.appendChild(itm);
 });
-*/
